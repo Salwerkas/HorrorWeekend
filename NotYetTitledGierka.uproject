@@ -171,6 +171,7 @@
 	],
 	"TargetPlatforms": [
 		"WindowsNoEditor",
-		"AllDesktop"
+		"AllDesktop",
+		"IOS"
 	]
 }
